@@ -1,8 +1,3 @@
-<!--
-  Profile README — lives in the repo arthawreliuk/arthawreliuk so GitHub
-  renders it on the profile page. Widths 370/490 keep the portrait and info
-  card the same height.
--->
 <div align="center">
 
 <table>
